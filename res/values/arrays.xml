@@ -986,7 +986,6 @@
         <item>2</item>
     </string-array>
 
-<<<<<<< HEAD
     <!-- FOD pressed state options -->
     <string-array name="fod_pressed_state_entries" translatable="false">
         <item>@string/fod_pressed_state_miui_cyan</item>
@@ -1056,5 +1055,4 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-
 </resources>
