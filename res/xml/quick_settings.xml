@@ -38,6 +38,11 @@
             android:summary="@string/quick_settings_vibrate_summary"
             android:defaultValue="false"/>
 
+        <com.dirtyunicorns.support.preferences.SystemSettingSwitchPreference
+            android:key="dismiss_all_button"
+            android:title="@string/enable_clear_all_button"
+            android:summary="@string/enable_clear_all_button_summary"
+            android:defaultValue="true" />
 
     <PreferenceCategory
         android:key="qs_footer"
@@ -188,12 +193,6 @@
     <PreferenceCategory
         android:key="brightness_slider"
         android:title="@string/qs_brightness_slider_title">
-
-        <com.dirtyunicorns.support.preferences.SystemSettingSwitchPreference
-            android:key="brightness_slider_qs_unexpanded"
-            android:title="@string/brightness_slider_qs_unexpanded"
-            android:summary="@string/brightness_slider_qs_unexpanded_summary"
-            android:defaultValue="false" />
 
         <com.dirtyunicorns.support.preferences.SecureSettingListPreference
             android:key="qs_show_brightness_slider"

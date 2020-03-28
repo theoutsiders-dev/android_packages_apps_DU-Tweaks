@@ -700,6 +700,9 @@
     <string name="pulse_ambient_light_duration_title">Duration</string>
     <string name="pulse_ambient_light_repeat_count_title">Edge Light Repeat count</string>
     <string name="pulse_ambient_light_repeat_count_summary">Set max repeat count. 0 for infinite</string>
+    <string name="pulse_ambient_light_layout_title">Edge Light View</string>
+    <string name="pulse_ambient_light_layout_solid">Solid</string>
+    <string name="pulse_ambient_light_layout_faded">Faded</string>
 
     <!-- Ambient visualizer -->
     <string name="ambient_visualizer_title">Ambient Music visualizer</string>
@@ -751,7 +754,9 @@
     <string name="battery_bar_animate_title">Charging animation</string>
     <string name="battery_bar_animate_summary">The charging animation may result in a poor user experience. Enable at your own discretion.</string>
     <string name="battery_bar_hide">Hide</string>
-    <string name="battery_bar_statusbar">Statusbar</string>
+    <string name="battery_bar_statusbar_top">Statusbar Top</string>
+    <string name="battery_bar_statusbar_bot">Statusbar bottom</string>
+    <string name="battery_bar_qs_header">QS Header</string>
     <string name="battery_bar_topnav">Top of navbar</string>
     <string name="battery_bar_bottomnav">Bottom of navbar</string>
     <string name="battery_bar_reg">Regular</string>
@@ -1006,9 +1011,6 @@
     <string name="text_clock_left">Left</string>
     <string name="text_clock_center">Center</string>
 
-    <string name="brightness_slider_qs_unexpanded">MIUI brightness slider</string>
-    <string name="brightness_slider_qs_unexpanded_summary">Shows brightness slider below qs panel</string>
-
     <!-- Quick Settings -->
     <string name="lockscreen_qs_disabled_title">Disable quick settings when locked</string>
     <string name="lockscreen_qs_disabled_summary">Disable expanding quick settings on secure lock screens</string>
@@ -1052,4 +1054,13 @@
     <!-- QS themes -->
     <string name="qs_bg_use_new_tint">QS Tint</string>
     <string name="qs_bg_use_new_tint_summary">Enable QS tiles tint style</string>
+
+    <!-- Pocket judge -->
+    <string name="pocket_judge_title">Pocket detection</string>
+    <string name="pocket_judge_summary">Block screen and button inputs when device is in pocket</string>
+
+    <!-- OOS clear all button -->
+    <string name="enable_clear_all_button">Replace clear all text with nice button</string>
+    <string name="enable_clear_all_button_summary">Show clear all notifications button in quick settings instead of default text one</string>
+
 </resources>
