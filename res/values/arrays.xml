@@ -326,11 +326,13 @@
         <item>@string/battery_percentage_off</item>
         <item>@string/battery_percentage_on</item>
         <item>@string/battery_percentage_charging</item>
+        <item>@string/battery_percentage_on_right</item>
     </string-array>
     <string-array name="status_bar_battery_percentage_values" translatable="false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+        <item>3</item>
     </string-array>
 
     <!-- Heads up timeout -->

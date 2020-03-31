@@ -402,6 +402,7 @@
     <string name="battery_percentage_off">Disabled</string>
     <string name="battery_percentage_on">Enabled</string>
     <string name="battery_percentage_charging">Enabled (While charging)</string>
+    <string name="battery_percentage_on_right">Enabled (Right)</string>
     <string name="battery_show_location_title">Battery location</string>
     <string name="battery_show_location_summary">Toggle battery location for QS header</string>
 
