@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.dirtyunicorns.tweaks.fragments.blocker;
+package com.dirtyunicorns.tweaks.fragments;
 
 import android.content.ContentResolver;
 import android.content.Context;
