@@ -1107,15 +1107,6 @@
     <string name="headset_connect_player_title">Launch music app on headset connection</string>
     <string name="headset_connect_player_summary">Launch the default music app when headset is connected</string>
 
-    <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock blocker</string>
-    <string name="wakelock_blocker_summary">Block system wakelocks</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
-    <string name="wakelock_blocker_warning_title">Proceed with caution</string>
-    <string name="wakelock_blocker_warning">Blocking wakelocks have the potential to cause instability, crashes or data loss</string>
-
     <!-- R Notification headers -->
     <string name="notification_headers_title">Show notification headers</string>
     <string name="notification_headers_summary">Whether to show R style notification headers (Requires a SystemUI restart)</string>
