@@ -795,6 +795,9 @@
     <string name="lockscreen_clock_analog_style">Analog Q Style</string>
     <string name="lockscreen_clock_analog_num_style">Analog clock(number)</string>
     <string name="lockscreen_clock_analog_du_style">Analog DU clock</string>
+    <string name="lockscreen_clock_analog_spidey_style">Analog Spidey clock</string>
+    <string name="lockscreen_clock_analog_dot_style">Analog Dot clock</string>
+    <string name="lockscreen_clock_analog_spectrum_style">Analog Spectrum clock</string>
 
     <!-- Lockscreen Date styles -->
     <string name="lockscreen_date_selection_title">Date style</string>

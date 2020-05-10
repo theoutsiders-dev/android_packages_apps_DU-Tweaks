@@ -707,6 +707,9 @@
         <item>@string/lockscreen_clock_analog_style</item>
         <item>@string/lockscreen_clock_analog_num_style</item>
         <item>@string/lockscreen_clock_analog_du_style</item>
+        <item>@string/lockscreen_clock_analog_spidey_style</item>
+        <item>@string/lockscreen_clock_analog_dot_style</item>
+        <item>@string/lockscreen_clock_analog_spectrum_style</item>
     </string-array>
 
     <string-array name="lockscreen_clock_values">
@@ -721,6 +724,9 @@
         <item>9</item>
         <item>10</item>
         <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
     </string-array>
 
      <!-- Lockscreen date styles -->
